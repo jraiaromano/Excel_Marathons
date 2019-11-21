@@ -1,6 +1,6 @@
 # Excel_Marathons
 ## Overview
-This is the repo for a guided analysis project. We had to load the dataset into Excel and answer a series of questions including 2 bonuses to become familiar with basic Excel functions and formulas. We then had to create a slideshow to present our findings. The finished slideshow can be viewed here()
+This is the repo for a guided analysis project. We had to load the dataset into Excel and answer a series of questions including 2 bonuses to become familiar with basic Excel functions and formulas. We then had to create a slideshow to present our findings. The finished slideshow can be viewed [here](https://docs.google.com/presentation/d/1pjQPzxHTfMB2JBgRDPcivBnSKcQZzOcd1ym6_rpR36g/edit?usp=sharing).
 ## Project Takeaways
 As the first Excel project I did with a decent dataset, this was a bit daunting. How little I knew! I did learn some neat tricks like large/small. I had a collaborative team that worked well together so it was a good experience with an analytics team as well.
 ## The Pitch
