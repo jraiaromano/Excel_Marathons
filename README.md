@@ -1,6 +1,9 @@
 # Excel_Marathons
 ## Overview
-This is the repo for a guided analysis project. We had to load the dataset into Excel and answer a series of questions including 2 bonuses to become familiar with basic Excel functions and formulas. We then had to create a slideshow to present our findings. The finished slideshow can be viewed [here](https://docs.google.com/presentation/d/1pjQPzxHTfMB2JBgRDPcivBnSKcQZzOcd1ym6_rpR36g/edit?usp=sharing).
+This is the repo for a guided analysis project. We had to load the dataset into Excel and answer a series of questions including 2 bonuses to become familiar with basic Excel functions and formulas. We then had to create a slideshow to present our findings. 
+![image](https://user-images.githubusercontent.com/52726447/71549395-24e9a280-2982-11ea-986c-8e37b14f431f.png)
+
+The finished slideshow can be viewed [here](https://docs.google.com/presentation/d/1pjQPzxHTfMB2JBgRDPcivBnSKcQZzOcd1ym6_rpR36g/edit?usp=sharing).
 ## Project Takeaways
 As the first Excel project I did with a decent dataset, this was a bit daunting. How little I knew! I did learn some neat tricks like large/small. I had a collaborative team that worked well together so it was a good experience with an analytics team as well.
 ## The Pitch
@@ -22,3 +25,11 @@ BONUS 2: How many runners ran in at least 2 of the 4 marathons? Did any runner c
 The complication here was all the sheets: 8 in total. This made pulling totals and aggregates from each a complex task. It was nicely regular though: every sheet had the same columns in the same order, making it simple to remember where everything was located.
 ## Approach to the Problem
 Because this was a pretty heavily guided exercise, I followed the prompts above, but due to the team willing to put in extra time, we raced through to the bonus questions and were able to answer both in our presentation. I ended up creating the 2 slides covering the bonus questions (each of my teammates chose one-two questions to cover in a slide so that everyone had something to present).
+
+Team (The Grim Mystics):
+
+[Bryan](https://github.com/BryanC007)
+
+[Daniel](https://github.com/dspaulding94)
+
+[Nate](https://github.com/nateallen93)
