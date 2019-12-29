@@ -33,3 +33,5 @@ Team (The Grim Mystics):
 [Daniel](https://github.com/dspaulding94)
 
 [Nate](https://github.com/nateallen93)
+
+*If you want to see more of this data, [here](https://github.com/jraiaromano/Marathons_2.0-Python) is a link to my Python webscrape and analysis of this dataset.
